@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">"My Boston Switch n' Toggle"</string>
+    <string name="dusty">Glow off</string>
+    <string name="glow">Glow on</string>
+    <string name="enable_glow">Enable glow</string>
+
+</resources>
